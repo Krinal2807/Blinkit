@@ -35,3 +35,43 @@ The table Grocery Sales is a .CSV file and has the following columns, details of
 
 • Item_Outlet_Sales: The sales of the product in the particular store. This is the outcome variable that we want to predict.
 
+# Objective:
+
+   Analyze sales data and customer behavior using MySQL.
+
+   Gain insights to improve operations and customer satisfaction.
+
+# Dataset Overview:
+
+#Item Data:
+
+Item_Identifier – Unique product ID.
+
+Item_Weight – Product weight.
+
+Item_Fat_Content – Fat level (low or regular).
+
+Item_Visibility – Shelf display percentage.
+
+Item_Type – Product category.
+
+Item_MRP – Maximum retail price.
+
+#Outlet Data:
+
+Outlet_Identifier – Unique store ID.
+
+Outlet_Establishment_Year – Store launch year.
+
+Outlet_Size – Store size (area covered).
+
+Outlet_Location_Type – City/region type.
+
+Outlet_Type – Store type (grocery/supermarket).
+
+#Sales Data:
+
+Item_Outlet_Sales – Product sales at each outlet.
+
+
+
