@@ -37,9 +37,9 @@ The table Grocery Sales is a .CSV file and has the following columns, details of
 
 # Objective:
 
-   Analyze sales data and customer behavior using MySQL.
+   - Analyze sales data and customer behavior using MySQL.
 
-   Gain insights to improve operations and customer satisfaction.
+   - Gain insights to improve operations and customer satisfaction.
 
 # Dataset Overview:
 
