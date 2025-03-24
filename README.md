@@ -45,33 +45,33 @@ The table Grocery Sales is a .CSV file and has the following columns, details of
 
 - Item Data:
 
-Item_Identifier – Unique product ID.
+    Item_Identifier – Unique product ID.
 
-Item_Weight – Product weight.
+    Item_Weight – Product weight.
 
-Item_Fat_Content – Fat level (low or regular).
+    Item_Fat_Content – Fat level (low or regular).
 
-Item_Visibility – Shelf display percentage.
+    Item_Visibility – Shelf display percentage.
 
-Item_Type – Product category.
+    Item_Type – Product category.
 
-Item_MRP – Maximum retail price.
+    Item_MRP – Maximum retail price.
 
 - Outlet Data:
 
-Outlet_Identifier – Unique store ID.
+    Outlet_Identifier – Unique store ID.
 
-Outlet_Establishment_Year – Store launch year.
+    Outlet_Establishment_Year – Store launch year.
 
-Outlet_Size – Store size (area covered).
+    Outlet_Size – Store size (area covered).
 
-Outlet_Location_Type – City/region type.
+    Outlet_Location_Type – City/region type.
 
-Outlet_Type – Store type (grocery/supermarket).
+    Outlet_Type – Store type (grocery/supermarket).
 
 - Sales Data:
 
-Item_Outlet_Sales – Product sales at each outlet.
+    Item_Outlet_Sales – Product sales at each outlet.
 
 
 
