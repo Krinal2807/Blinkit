@@ -43,7 +43,7 @@ The table Grocery Sales is a .CSV file and has the following columns, details of
 
 # Dataset Overview:
 
-#Item Data:
+- Item Data:
 
 Item_Identifier – Unique product ID.
 
@@ -57,7 +57,7 @@ Item_Type – Product category.
 
 Item_MRP – Maximum retail price.
 
-#Outlet Data:
+- Outlet Data:
 
 Outlet_Identifier – Unique store ID.
 
@@ -69,7 +69,7 @@ Outlet_Location_Type – City/region type.
 
 Outlet_Type – Store type (grocery/supermarket).
 
-#Sales Data:
+- Sales Data:
 
 Item_Outlet_Sales – Product sales at each outlet.
 
